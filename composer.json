@@ -10,7 +10,8 @@
       "email": "support@freedomsex.net"
     }
   ],
-  "require-dev": {
+  "require": {
+    "deployer/deployer": "^6.8",
     "symfony/console": "^5.1",
     "symfony/debug-bundle": "^5.1",
     "symfony/dotenv": "^5.1",

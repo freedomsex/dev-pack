@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "572df8d7c77397e6b14c0d87acb92a30",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "6e373691c1c93fce8647655e9537b1ef",
+    "packages": [
         {
             "name": "deployer/deployer",
             "version": "v6.8.0",
@@ -3765,6 +3764,7 @@
             "time": "2020-08-05T15:13:19+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
