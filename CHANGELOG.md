@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/freedomsex/dev-pack/compare/v1.0.1...v1.0.2) (2020-10-04)
+
+
+### Bug Fixes
+
+* upd ([a191029](https://github.com/freedomsex/dev-pack/commit/a191029f6660cb5f3bafc1f4ad13b5c3e035c87d))
+
 ### [1.0.1](https://github.com/freedomsex/dev-pack/compare/v1.0.0...v1.0.1) (2020-10-04)
 
 
