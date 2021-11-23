@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/freedomsex/dev-pack/compare/v1.0.4...v1.1.0) (2021-11-23)
+
+
+### Features
+
+* foundry fixtures dama ([7b1ab8b](https://github.com/freedomsex/dev-pack/commit/7b1ab8bdb0de46891b8c943658d4c6a99648bb08))
+
 ### [1.0.4](https://github.com/freedomsex/dev-pack/compare/v1.0.3...v1.0.4) (2020-10-04)
 
 
