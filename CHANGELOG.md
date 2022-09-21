@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/freedomsex/dev-pack/compare/1.1.0...1.2.0) (2022-09-21)
+
+
+### Features
+
+* no deployer ([68f82a5](https://github.com/freedomsex/dev-pack/commit/68f82a543def5bd847deb822364d3727f93ce9fa))
+
 ## [1.1.0](https://github.com/freedomsex/dev-pack/compare/v1.0.4...v1.1.0) (2021-11-23)
 
 
