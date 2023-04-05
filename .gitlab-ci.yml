@@ -1,0 +1,12 @@
+
+deploy:
+  image: registry.gitlab.com/a4sex/k8s/images/semantic-release@sha256:f07e341d294b37ebd149c1d90d1c8219968591c8a7bf0cdb04080cfc47a376c2
+  stage: deploy
+  before_script:
+    - export VAULT_TOKEN="$(vault write -field=token auth/jwt/login role=$VAULT_ROLE jwt=$CI_JOB_JWT)"
+    - export GITLAB_TOKEN="$(vault kv get -field=token general/gitlab/push-token)"
+    - cp /semantic-release/package.json .
+  script:
+    - npx semantic-release
+  except:
+    - tags
