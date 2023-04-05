@@ -12,18 +12,17 @@
   ],
   "require": {
     "phpunit/phpunit": "^9.5",
-    "dama/doctrine-test-bundle": "^6.7",
-    "doctrine/doctrine-fixtures-bundle": "^3.4",
-    "zenstruck/foundry": "^1.14",
+    "dama/doctrine-test-bundle": "*",
+    "doctrine/doctrine-fixtures-bundle": "*",
+    "zenstruck/foundry": "*",
     "symfony/console": "*",
     "symfony/debug-bundle": "*",
     "symfony/dotenv": "*",
     "symfony/framework-bundle": "*",
     "symfony/maker-bundle": "*",
     "symfony/stopwatch": "*",
-    "symfony/test-pack": "^1.0",
+    "symfony/test-pack": "*",
     "symfony/web-profiler-bundle": "*",
-    "symfony/web-server-bundle": "^4.4",
     "symfony/yaml": "*"
   },
   "config": {
